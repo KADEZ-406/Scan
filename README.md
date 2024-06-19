@@ -6,3 +6,4 @@ cd Scan
 python install.py
 #run
 python3 scan.py
+.
